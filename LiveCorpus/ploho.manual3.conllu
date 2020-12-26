@@ -1,4 +1,4 @@
-﻿1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vu1990m#@vu1990m#920.99#921.205
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vu1990m#@vu1990m#920.99#921.205
 2	как	как	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#921.205#921.42
 3	бы	бы	PART	_	_	_	_	_	words@vu1990m#@vu1990m#921.42#921.635
 4	гораздо	гораздо	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#921.635#921.85
@@ -119,10 +119,10 @@
 119	//	//	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#951.178#951.392
 120	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vu1990m#@vu1990m#951.392#951.606
 121	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#951.606#951.82
-122	удивительно	удивительно ADV _ Degree=Pos	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#951.82#952.034
+122	удивительно	удивительный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vu1990m#@vu1990m#951.82#952.034
 123	и	и	CCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#952.034#952.248
-124	поразительно	поразительно	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#952.248#952.462
-125	просто	просто	PART	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vu1990m#@vu1990m#952.462#952.676
+124	поразительно	поразительный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@vu1990m#@vu1990m#952.248#952.462
+125	просто	просто	PART	_	_	_	_	_	words@vu1990m#@vu1990m#952.462#952.676
 126	//	//	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#952.676#952.89
 127	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vu1990m#@vu1990m#952.89#953.104
 128	вот	вот	PART	_	_	_	_	_	words@vu1990m#@vu1990m#953.104#953.318
@@ -249,7 +249,7 @@
 249	вот	вот	PART	_	_	_	_	_	words@vu1990m#@vu1990m#979.506#979.698
 250	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vu1990m#@vu1990m#979.698#979.89
 251	что	что	CCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#979.89#980.082
-252	типа	типa	PART	_	_	_	_	_	words@vu1990m#@vu1990m#980.082#980.274
+252	типа	типа	PART	_	_	_	_	_	words@vu1990m#@vu1990m#980.082#980.274
 253	вот	вот	PART	_	_	_	_	_	words@vu1990m#@vu1990m#980.274#980.466
 254	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	words@vu1990m#@vu1990m#980.466#980.658
 255	мертвые	мертвый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@vu1990m#@vu1990m#980.658#980.85
@@ -422,7 +422,7 @@
 422	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@vu1990m#@vu1990m#1022.364#1022.515
 423	не	не	PART	_	_	_	_	_	words@vu1990m#@vu1990m#1022.515#1022.666
 424	обобщаю	обобщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1022.666#1022.817
-425	ни	ни	PART	_	Polarity=Neg	_	_	_	words@vu1990m#@vu1990m#1022.817#1022.968
+425	ни	ни	PART	_	_	_	_	_	words@vu1990m#@vu1990m#1022.817#1022.968
 426	в	в	ADP	_	_	_	_	_	words@vu1990m#@vu1990m#1022.968#1023.119
 427	коем	кой	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1023.119#1023.27
 428	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1023.27#1023.421
@@ -1099,7 +1099,7 @@
 1099	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1211.164#1211.388
 1100	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1211.388#1211.612
 1101	окей	окей	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1211.612#1211.836
-1102	можно	можно	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1211.836#1212.06
+1102	можно	можно	VERB	_	_	_	_	_	words@vu1990m#@vu1990m#1211.836#1212.06
 1103	прийти	прийти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1212.06#1212.284
 1104	раздолбать	раздолбать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1212.284#1212.508
 1105	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1212.508#1212.732
@@ -1387,7 +1387,7 @@
 1387	бы	бы	PART	_	_	_	_	_	words@vu1990m#@vu1990m#1299.29#1299.537
 1388	здесь	здесь	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1299.537#1299.784
 1389	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1299.784#1300.031
-1390	можно	можно	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1300.031#1300.278
+1390	можно	можно	VERB	_	_	_	_	_	words@vu1990m#@vu1990m#1300.031#1300.278
 1391	брызгать	брызгать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1300.278#1300.525
 1392	слюной	слюна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1300.525#1300.772
 1393	направо	направо	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1300.772#1301.019
@@ -1465,7 +1465,7 @@
 1465	что	что	SCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#1318.556#1318.803
 1466	любой	любой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1318.803#1319.05
 1467	кабель	кабель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1319.05#1319.297
-1468	можно	можно	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1319.297#1319.544
+1468	можно	можно	VERB	_	_	_	_	_	words@vu1990m#@vu1990m#1319.297#1319.544
 1469	отрезать	отрезать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1319.544#1319.791
 1470	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1319.791#1320.038
 1471	понимаешь	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1320.038#1320.285
@@ -1525,7 +1525,7 @@
 1525	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@vu1990m#@vu1990m#1337.647#1337.9
 1526	//	//	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1337.9#1338.16
 1527	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	words@vu1990m#@vu1990m#1338.84#1339.042
-1528	надо	надо	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1339.042#1339.244
+1528	надо	надо	VERB	_	_	_	_	_	words@vu1990m#@vu1990m#1339.042#1339.244
 1529	на	на	ADP	_	_	_	_	_	words@vu1990m#@vu1990m#1339.244#1339.446
 1530	свиней	свинья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@vu1990m#@vu1990m#1339.446#1339.648
 1531	охотиться	охотиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@vu1990m#@vu1990m#1339.648#1339.85
